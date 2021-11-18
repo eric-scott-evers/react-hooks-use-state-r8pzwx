@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {render} from 'react-dom';
 import Hello from './Hello';
 
-// more info 
+// Functions are the future 
 
 function FishingBucket() {
   const [fishType, setFishType] = useState('a fish yet undecided');
